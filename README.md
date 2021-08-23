@@ -45,9 +45,14 @@ Please follow the steps in order to run the application on your local machine.
 
 ## Screenshots
 
-![Maps](airport/screenshots/Maps.png)
-![AirportList](airport/screenshots/AirportList.png)
-![Setting](airport/screenshots/Settings.png)
+![Maps](/screenshots/Maps.PNG)
+
+
+![AirportList](/screenshots/AirportList.PNG)
+
+
+![Setting](/screenshots/Settings.PNG)
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
