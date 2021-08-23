@@ -23,7 +23,7 @@ Please follow the steps in order to run the application on your local machine.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/<>
+   git clone https://github.com/rahul1915/airport.git
    ```
 2. Install NPM packages
    ```sh
@@ -45,9 +45,9 @@ Please follow the steps in order to run the application on your local machine.
 
 ## Screenshots
 
-![](screenshots/Maps.png)
-![](screenshots/AirportList.png)
-![](screenshots/Settings.png)
+![Maps](airport/screenshots/Maps.png)
+![AirportList](airport/screenshots/AirportList.png)
+![Setting](airport/screenshots/Settings.png)
 
 <!-- ACKNOWLEDGEMENTS -->
 
