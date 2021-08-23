@@ -1,0 +1,22 @@
+{
+    "headerTitle": "Luchthaven",
+    "Map": "Kaart",
+    "AirportList": "Luchthavenlijst",
+    "Settings": "Instellingen",
+    "Id": "ID kaart",
+    "NearestAirport": "Dichtstbijzijnde Luchthaven",
+    "FurthestAirport": "Verste Luchthaven",
+    "Longitude": "Lengtegraad",
+    "City": "Stad",
+    "CountryId": "Land-ID",
+    "Latitude": "Breedtegraad",
+    "fromDate": "Selecteer Uit",
+    "distanceFromSchipol": "Afstand vanaf Schiphol",
+    "toDate": "Selecteer Om",
+    "SelectLanguage": "Selecteer Taal",
+    "SelectUnit": "Selecteer Eenheid",
+    "NoData": "Geen Gegevens Gevonden Voor Geselecteerde Datum",
+    "Introduction": "Invoering",
+    "ApplyFilter": "Voeg Filter Toe"
+  }
+  

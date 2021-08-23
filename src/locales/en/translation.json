@@ -1,0 +1,22 @@
+{
+    "headerTitle": "Airport",
+    "Map": "Map",
+    "AirportList": "Airport List",
+    "Settings": "Settings",
+    "Id": "Id",
+    "NearestAirport": "Nearest Airport",
+    "FurthestAirport": "Furthest Airport",
+    "Longitude": "Longitude",
+    "City": "City",
+    "CountryId": "CountryId",
+    "Latitude": "Latitude",
+    "Introduction": "Introduction",
+    "SelectLanguage": "Select Language",
+    "SelectUnit": "Select Unit",
+    "fromDate": "Select from date",
+    "toDate": "Select to date",
+    "NoData": "No data found for selected date",
+    "distanceFromSchipol": "Distance from Schipol",
+    "ApplyFilter": "Apply Filter"
+  }
+  
