@@ -1,4 +1,4 @@
-# Airport Finder
+# Airport Locator
 
 A Web Component created using &amp; React.js to Plot Airports with provided Geo locations and display reachable airports from Schiphol Airport on given date/time range, sorted with distance.
 
